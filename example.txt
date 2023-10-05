@@ -1,0 +1,8 @@
+class Example{
+public static void main( string[] args)
+{ 
+ int a=4, b=8,c;
+c=a+b;
+system.out.println("sum of" +c);
+}
+}
